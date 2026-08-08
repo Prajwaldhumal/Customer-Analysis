@@ -7,7 +7,7 @@ A simple project where I cleaned customer shopping data using Python, stored it 
 I built this project to explore how customers shop — what they buy, how much they spend, whether they're subscribed, and how they rate their purchases. It covers the full workflow: cleaning raw data in Python, storing and querying it in MySQL, and visualizing the results in an interactive Power BI dashboard.
 
 ## Dataset
-The dataset (`customer_shopping_behavior.csv`) contains 3,900 customer records, with details like age, gender, item purchased, category, purchase amount, location, shipping type, subscription status, discount usage, and review ratings.
+The dataset (`"C:\Users\prajwal\Downloads\customer_shopping_behavior.csv"`) contains 3,900 customer records, with details like age, gender, item purchased, category, purchase amount, location, shipping type, subscription status, discount usage, and review ratings.
 
 ## Tools Used
 - **Python (Pandas)** – for cleaning and preparing the data
